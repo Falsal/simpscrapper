@@ -1,0 +1,26 @@
+{
+  "name": "simpscrapper",
+  "version": "1.0.0",
+  "description": "simple scrapper using cheerio and fetch",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Falsal"
+  },
+  "keywords": [
+    "js",
+    "cheerio",
+    "node",
+    "fetch"
+  ],
+  "author": "falsal",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.2.10"
+  }
+}
